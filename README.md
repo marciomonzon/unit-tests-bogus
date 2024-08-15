@@ -35,8 +35,10 @@
   <li>Name value, which is a Male name;</li>
   <li>Email value, which is a first name of a random person;</li>
   <li>Password value, which follow an extension method rule;</li>
-  <li>Date of Birth value, which is 80 years back</li>
+  <li>Date of Birth value, which is 80 years back.</li>
 </ul>
+
+<br>
 
 ## Documentation
 * https://github.com/bchavez/Bogus
